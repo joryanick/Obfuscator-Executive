@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/License-Commercial-blue.svg)](https://www.example.com/license)
 
-![Alt text](/tree/main/screenshots/obfuscator-executive-screenshot.png?raw=true "Screenshot of Obfuscator Executive software obfuscation tool interface")
+![Alt text](/tree/main/screenshots/obfuscator-executive-screenshot.png?raw=true "Screenshot of Obfuscator Executive software obfuscation tool")
 
 # Obfuscator Executive v5
 
