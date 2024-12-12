@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/License-Commercial-blue.svg)](https://www.example.com/license)
 
-<img src="https://github.com/joryanick/Obfuscator-Executive/screenshots/obfuscator-executive-screenshot.png" alt="Screenshot of Obfuscator Executive software obfuscation tool interface" width="400"/><br> 
+![Alt text](/tree/main/screenshots/obfuscator-executive-screenshot.png?raw=true "Screenshot of Obfuscator Executive software obfuscation tool interface")
 
 # Obfuscator Executive v5
 
@@ -40,7 +40,8 @@ https://obfuscator-executive.com/obfuscator-executive-v5-eula.pdf
 The best way to support future development is to purchase a license. Your license is permanent and does not expire. Visit the website for additional information. 
 https://obfuscator-executive.com/#pricing
 
-If you'd like to support me a little more, <br>
+If you'd like to support me a little more, 
+<br><br>
 <a href='https://ko-fi.com/jorymakes' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>
 
 ## CHANGE LOG
