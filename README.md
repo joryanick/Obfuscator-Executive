@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-Commercial-blue.svg)](https://www.example.com/license)
+[![License](https://img.shields.io/badge/License-Commercial-blue.svg)](https://obfuscator-executive.com/obfuscator-executive-v5-eula.pdf)
 
 ![Screenshot of Obfuscator Executive software obfuscation tool](https://raw.github.com/joryanick/obfuscator-executive/main/screenshots/obfuscator-executive-screenshot.png?raw=true)
 
