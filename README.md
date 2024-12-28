@@ -17,7 +17,7 @@
 
 ## Installation
 
-To use Obfuscator Executive, download the installer from the [releases page](https://github.com/joryanick/Obfuscator-Executive/releases/latest).
+To use Obfuscator Executive, download the installer from the [Obfuscator Executive Website](https://obfuscator-executive.com/#download).
 
 **Important Note:**
 This is a binary-only release.
