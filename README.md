@@ -10,17 +10,18 @@
 
 - **Conceals** vulnerable plaintext symbols from unauthorized access in compiled projects.
 - **Protects** binaries across all major Windows versions.
-- **Functions** as a development toolchain component.
-- **Intuitive** and friendly interface with no training required.
+- **Automates** as a development toolchain component.
+- **Intuitive and friendly** interface with no training required.
 
 #### This repository is for tracking bug reports and feature requests only.
 
 ## Installation
 
-To use Obfuscator Executive, download the installer from the [Obfuscator Executive Website](https://obfuscator-executive.com/#download).
+To use Obfuscator Executive, download the installer from our [Downloads page](https://obfuscator-executive.com/#download).
 
 **Important Note:**
-This is a binary-only release.
+
+This is a binary-only release for x86/x64 Windows platforms. Compatibility ranges from Windows XP to Windows 11. Future versions of Windows supporting x86 and Win32 API are most likely compatible.
 
 ## Usage
 
@@ -37,21 +38,21 @@ https://obfuscator-executive.com/obfuscator-executive-v5-eula.pdf
 
 ## Support This Project
 
-Visit [Pricing](https://obfuscator-executive.com/#pricing) to support future development with a permanent license purchase.
+Visit our [Pricing page](https://obfuscator-executive.com/#pricing) to support future development with a permanent license purchase.
 Alternatively, you can 
 <br><br>
 <a href='https://ko-fi.com/jorymakes' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>
 
 ## CHANGE LOG
-See release notes on our [GitHub Releases](https://github.com/joryanick/Obfuscator-Executive/releases) page.
+See release notes on our [Changelog page](https://obfuscator-executive.com/#changelog).
 
 ## DOWNLOAD / INSTALL
-See the [GitHub Releases page](https://github.com/joryanick/Obfuscator-Executive/releases) for updates and downloads.
+The latest installer and updates are available from our [Download page](https://obfuscator-executive.com/#download).
 
 ## BUG REPORTS / FEATURE REQUESTS / SUPPORT
-Report issues at https://github.com/joryanick/Obfuscator-Executive/issues, providing a clear description along with steps to reproduce the issue.
+The [Issues page](https://github.com/joryanick/Obfuscator-Executive/issues) may be used for these needs. Ehen reporting a bug, please provide a clear description along with steps to reproduce the issue. Your feedback is greatly appreciated.
 
 ## Project Website
-Visit [Obfuscator Executive](https://obfuscator-executive.com) for more information and product news.
+Visit the [Obfuscator Executive website](https://obfuscator-executive.com) for more information and product news.
 
 ### Thank you for visiting Obfuscator Executive on Github.
