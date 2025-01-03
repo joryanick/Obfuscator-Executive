@@ -4,7 +4,7 @@
 
 # Obfuscator Executive v5
 
-**Obfuscator Executive** is a software obfuscation tool designed to protect your Windows applications against reverse engineering and unauthorized access.
+**Obfuscator Executive** is a sophisticated software obfuscation tool designed to protect your Windows applications against reverse engineering and unauthorized access.
 
 ## Features
 
@@ -13,15 +13,28 @@
 - **Automates** as a development toolchain component.
 - **Intuitive and friendly** interface with no training required.
 
+**Supported Compilers:**
+
+Obfuscator Executive protects Windows EXE and other binaries compiled with popular platforms like Visual Studio (C#, VB.NET, C++), GCC, JetBrains Rider, Eclipse, NetBeans, and Xamarin Studio. Legacy compilers such as Microsoft Visual C/C++, "Classic" Visual Basic (VB4, VB5, VB6), Borland C++, Turbo C++, Delphi, and others are fully supported.
+
 #### This repository is for tracking bug reports and feature requests only.
 
 ## Installation
 
-To use Obfuscator Executive, download the installer from our [Downloads page](https://obfuscator-executive.com/#download).
+To use Obfuscator Executive, download a Free Trial from our [Downloads page](https://obfuscator-executive.com/#download).
 
 **Important Note:**
 
 This is a binary-only release for x86/x64 Windows platforms. Compatibility ranges from Windows XP to Windows 11. Future versions of Windows supporting x86 and Win32 API are most likely compatible.
+
+**Free Trial Limitations:**
+
+- Single session
+- Maximum protection of approximately 20 symbol names
+- No automation/scripted command line builds
+- 30-minute sessions
+
+To access the full feature set, please visit our website [pricing section](https://obfuscator-executive.com/#pricing) for pricing information.
 
 ## Usage
 
@@ -47,7 +60,7 @@ Alternatively, you can
 See release notes on our [Changelog page](https://obfuscator-executive.com/#changelog).
 
 ## DOWNLOAD / INSTALL
-The latest installer and updates are available from our [Download page](https://obfuscator-executive.com/#download).
+The latest Trial version installer and updates are available from our [Download page](https://obfuscator-executive.com/#download).
 
 ## BUG REPORTS / FEATURE REQUESTS / SUPPORT
 The [Issues page](https://github.com/joryanick/Obfuscator-Executive/issues) may be used for these needs. Ehen reporting a bug, please provide a clear description along with steps to reproduce the issue. Your feedback is greatly appreciated.
